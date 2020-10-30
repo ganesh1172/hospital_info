@@ -1,25 +1,45 @@
-import logo from './logo.svg';
+import React, { Component } from 'react';
+import HInfo from './components/HInfo';
+import Filter from './components/Filter';
+import data from './hospital.json';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
 
-export default App;
+export default class App extends Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      hospitals: data,
+      search: null,
+      results: data
+    }
+  }
+
+  handleSearch = (e) => {
+    // console.log(e.target.value);
+    let keyword = e.target.value;
+    if (!!keyword) {
+      keyword = keyword.toLowerCase();
+      console.log(keyword);
+    }
+
+    const searchFilter = this.state.hospitals.filter((name) => {
+      return name.toLowerCase().includes(keyword) === true;
+    })
+    // console.log(searchFilter);
+    this.setState({ hospitals: searchFilter });
+  }
+  render() {
+    return (
+      <div className="container">
+        <form>
+          <input value={this.search} onChange={this.handleSearch} placeholder="...search" />
+        </form>
+        <div className="components">
+          <Filter filtered={this.state.results} />
+          <HInfo hospitals={this.state.hospitals} />
+        </div>
+      </div>
+    )
+  }
+}

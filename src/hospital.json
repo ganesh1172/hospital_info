@@ -1,0 +1,589 @@
+[
+    {
+        "_id": {
+            "$oid": "5f84449a8dc0250e30014333"
+        },
+        "rating": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+        },
+        "hospitalLogo": "",
+        "images": [
+            "https://storage.googleapis.com/hos_img/list/10000096/hospitalImages/image1602165804978.jpg"
+        ],
+        "shortDescription": null,
+        "specialities": [
+            "Cardiology",
+            "Pediatrics",
+            "Neurology",
+            "Intensive Care Unit (ICU)",
+            "General Surgery",
+            "Laparoscopic Surgery",
+            "X-ray /radiology",
+            "Oncology/Oncosurgery (Cancer Care)",
+            "Orthopedics",
+            "Trauma and Emergency Medicine",
+            "Critical Care",
+            "Plastic Surgery (Reconstructive Surgery)",
+            "Neuron Surgery",
+            "Urology",
+            "Physiotherapy",
+            "Otorhinolaryngology (Ear Nose and Throat)",
+            "Gastroenterology and Human Nutrition",
+            "Endocrinology, Metabolism and Diabetes"
+        ],
+        "placeId": "ChIJxSa8-ES55zsRvNKf9sas9hQ",
+        "name": "Bethany Hospital ",
+        "hospitalId": 10000096,
+        "hospitalBedCategories": [
+            {
+                "photos": [],
+                "_id": {
+                    "$oid": "5f7f1c2e903aee2c444972c0"
+                },
+                "bedType": "ICU",
+                "pricePerDay": 0,
+                "description": "",
+                "sharingBasis": "Suit",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f7f1c2e903aeeaa9f4972c1"
+                        },
+                        "name": "Daily meals"
+                    }
+                ]
+            }
+        ],
+        "hospitalAddress": {
+            "addLineOne": "Pokhran Road No. 2",
+            "addLineTwo": "Thane (W)",
+            "city": "Thane",
+            "state": "Maharashtra",
+            "zip": "400610",
+            "country": "India"
+        },
+        "absoluteRating": "3.8"
+    },
+    {
+        "_id": {
+            "$oid": "5f8d4f86b785d22090cb7732"
+        },
+        "rating": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+        },
+        "hospitalLogo": "https://storage.googleapis.com/hos_img/list/10000044/logo/image1600497278462.png",
+        "images": [
+            "https://storage.googleapis.com/hos_img/list/10000044/hospitalImages/image1600497278535.jpg"
+        ],
+        "specialities": [
+            "Orthopedics",
+            "Obstetrics and Gynaecology",
+            "Trauma and Emergency Medicine",
+            "General Surgery",
+            "Medicine",
+            "Plastic Surgery(Reconstructive Surgery)",
+            "Oncology/ Oncosurgery (Cancer Care)",
+            "Pediatrics",
+            "Bariatric Surgery",
+            "Urology",
+            "Neurology",
+            "Cosmetic Surgery",
+            "Laparoscopic Surgery"
+        ],
+        "placeId": "ChIJM9niUFbP5zsRXlBT0TTDA2M",
+        "name": "Dr Das Multi-Speciality Hospital",
+        "hospitalId": 10000100,
+        "hospitalBedCategories": [
+            {
+                "photos": [],
+                "_id": {
+                    "$oid": "5f65a680fc9fbd811ab88863"
+                },
+                "bedType": "General Ward",
+                "pricePerDay": 1000,
+                "description": "General Ward",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbd734cb88864"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            },
+            {
+                "photos": [
+                    "https://storage.googleapis.com/hos_img/list/10000044/beds/image1600497277974.jpg"
+                ],
+                "_id": {
+                    "$oid": "5f65a680fc9fbdb0f7b88865"
+                },
+                "bedType": "Semi private ward",
+                "pricePerDay": 2500,
+                "description": "Semi private ward",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbd4586b88866"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            },
+            {
+                "photos": [],
+                "_id": {
+                    "$oid": "5f65a680fc9fbdf3bbb88867"
+                },
+                "bedType": "Private Ward",
+                "pricePerDay": 5000,
+                "description": "Private Ward",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbdc7ffb88868"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            },
+            {
+                "photos": [],
+                "_id": {
+                    "$oid": "5f65a680fc9fbd4abbb88869"
+                },
+                "bedType": "ICU",
+                "pricePerDay": 8000,
+                "description": "ICU",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbd3d7bb8886a"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            }
+        ],
+        "hospitalAddress": {
+            "addLineOne": "ABCD",
+            "addLineTwo": "WXYZ",
+            "city": "Chembur",
+            "state": "Maharashtra",
+            "zip": "400606",
+            "country": "India"
+        },
+        "absoluteRating": "2.6"
+    },
+    {
+        "_id": {
+            "$oid": "5f8d8b9db785d22090cb7733"
+        },
+        "rating": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+        },
+        "hospitalLogo": "https://storage.googleapis.com/hos_img/list/10000044/logo/image1600497278462.png",
+        "images": [
+            "https://storage.googleapis.com/hos_img/list/10000044/hospitalImages/image1600497278535.jpg"
+        ],
+        "specialities": [
+            "Orthopedics",
+            "Trauma and Emergency Medicine",
+            "General Surgery",
+            "Medicine",
+            "Pediatrics",
+            "Bariatric Surgery",
+            "Neurology",
+            "Laparoscopic Surgery"
+        ],
+        "placeId": "ChIJFe2Uc-Ww5zsR3OPn-HSF-bg",
+        "name": "Pragati Multispeciality Hospital ",
+        "hospitalId": 10000099,
+        "hospitalBedCategories": [
+            {
+                "photos": [],
+                "_id": {
+                    "$oid": "5f65a680fc9fbd811ab88863"
+                },
+                "bedType": "General Ward",
+                "pricePerDay": 2000,
+                "description": "General Ward",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbd734cb88864"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            },
+            {
+                "photos": [
+                    "https://storage.googleapis.com/hos_img/list/10000044/beds/image1600497277974.jpg"
+                ],
+                "_id": {
+                    "$oid": "5f65a680fc9fbdb0f7b88865"
+                },
+                "bedType": "Semi private ward",
+                "pricePerDay": 3500,
+                "description": "Semi private ward",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbd4586b88866"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            },
+            {
+                "photos": [],
+                "_id": {
+                    "$oid": "5f65a680fc9fbdf3bbb88867"
+                },
+                "bedType": "Private Ward",
+                "pricePerDay": 6000,
+                "description": "Private Ward",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbdc7ffb88868"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            },
+            {
+                "photos": [],
+                "_id": {
+                    "$oid": "5f65a680fc9fbd4abbb88869"
+                },
+                "bedType": "ICU",
+                "pricePerDay": 10000,
+                "description": "ICU",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbd3d7bb8886a"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            }
+        ],
+        "hospitalAddress": {
+            "city": "Dahisar, Mumbai",
+            "state": "Maharashtra",
+            "zip": "400606",
+            "country": "India"
+        },
+        "absoluteRating": "1.5"
+    },
+    {
+        "_id": {
+            "$oid": "5f8d8e4eb785d22090cb7734"
+        },
+        "rating": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+        },
+        "hospitalLogo": "https://storage.googleapis.com/hos_img/list/10000044/logo/image1600497278462.png",
+        "images": [
+            "https://storage.googleapis.com/hos_img/list/10000044/hospitalImages/image1600497278535.jpg"
+        ],
+        "specialities": [
+            "General Surgery",
+            "ophthalmology"
+        ],
+        "placeId": "ChIJZ9tqCtqw5zsR51vXCU-uPrE",
+        "name": "Asian Eye Institute and Laser Centre",
+        "hospitalId": 10000101,
+        "hospitalBedCategories": [
+            {
+                "photos": [],
+                "_id": {
+                    "$oid": "5f65a680fc9fbd811ab88863"
+                },
+                "bedType": "General Ward",
+                "pricePerDay": 500,
+                "description": "General Ward",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbd734cb88864"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            },
+            {
+                "photos": [
+                    "https://storage.googleapis.com/hos_img/list/10000044/beds/image1600497277974.jpg"
+                ],
+                "_id": {
+                    "$oid": "5f65a680fc9fbdb0f7b88865"
+                },
+                "bedType": "Semi private ward",
+                "pricePerDay": 1000,
+                "description": "Semi private ward",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbd4586b88866"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            },
+            {
+                "photos": [],
+                "_id": {
+                    "$oid": "5f65a680fc9fbdf3bbb88867"
+                },
+                "bedType": "Private Ward",
+                "pricePerDay": 3000,
+                "description": "Private Ward",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbdc7ffb88868"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            },
+            {
+                "photos": [],
+                "_id": {
+                    "$oid": "5f65a680fc9fbd4abbb88869"
+                },
+                "bedType": "ICU",
+                "pricePerDay": 5000,
+                "description": "ICU",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbd3d7bb8886a"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            }
+        ],
+        "hospitalAddress": {
+            "city": "Dahisar, Mumbai",
+            "state": "Maharashtra",
+            "zip": "400606",
+            "country": "India"
+        },
+        "absoluteRating": "4.2"
+    },
+    {
+        "_id": {
+            "$oid": "5f8d9636b785d22090cb7735"
+        },
+        "rating": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+        },
+        "hospitalLogo": "",
+        "images": [
+            "https://storage.googleapis.com/hos_img/list/10000096/hospitalImages/image1602165804978.jpg"
+        ],
+        "shortDescription": null,
+        "specialities": [
+            "Cardiology",
+            "Pediatrics",
+            "Neurology",
+            "Intensive Care Unit (ICU)",
+            "General Surgery",
+            "Laparoscopic Surgery",
+            "X-ray /radiology",
+            "Oncology/Oncosurgery (Cancer Care)",
+            "Orthopedics",
+            "Trauma and Emergency Medicine",
+            "Critical Care",
+            "Plastic Surgery (Reconstructive Surgery)",
+            "Neuron Surgery",
+            "Urology",
+            "Physiotherapy",
+            "Otorhinolaryngology (Ear Nose and Throat)",
+            "Gastroenterology and Human Nutrition",
+            "Endocrinology, Metabolism and Diabetes"
+        ],
+        "placeId": "ChIJvxP0-o_J5zsR3m9Ejq_AfSI",
+        "name": "Powai Polyclinic and Hospital ",
+        "hospitalId": 10000055,
+        "hospitalBedCategories": [
+            {
+                "photos": [],
+                "_id": {
+                    "$oid": "5f7f1c2e903aee2c444972c0"
+                },
+                "bedType": "ICU",
+                "pricePerDay": 1200,
+                "description": "",
+                "sharingBasis": "Suit",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f7f1c2e903aeeaa9f4972c1"
+                        },
+                        "name": "Daily meals"
+                    }
+                ]
+            }
+        ],
+        "hospitalAddress": {
+            "addLineOne": "Pokhran Road No. 2",
+            "addLineTwo": "Thane (W)",
+            "city": "Thane",
+            "state": "Maharashtra",
+            "zip": "400610",
+            "country": "India"
+        },
+        "absoluteRating": "4.7"
+    },
+    {
+        "_id": {
+            "$oid": "5f8d9719b785d22090cb7736"
+        },
+        "rating": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+        },
+        "hospitalLogo": "https://storage.googleapis.com/hos_img/list/10000044/logo/image1600497278462.png",
+        "images": [
+            "https://storage.googleapis.com/hos_img/list/10000044/hospitalImages/image1600497278535.jpg"
+        ],
+        "specialities": [
+            "Orthopedics",
+            "Trauma and Emergency Medicine",
+            "General Surgery",
+            "Medicine",
+            "Pediatrics",
+            "Bariatric Surgery",
+            "Neurology",
+            "Laparoscopic Surgery"
+        ],
+        "placeId": "ChIJyYUbh_e45zsRcUO_ue1Ecjc",
+        "name": "Aditi Hospital ",
+        "hospitalId": 10000069,
+        "hospitalBedCategories": [
+            {
+                "photos": [],
+                "_id": {
+                    "$oid": "5f65a680fc9fbd811ab88863"
+                },
+                "bedType": "General Ward",
+                "pricePerDay": 850,
+                "description": "General Ward",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbd734cb88864"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            },
+            {
+                "photos": [
+                    "https://storage.googleapis.com/hos_img/list/10000044/beds/image1600497277974.jpg"
+                ],
+                "_id": {
+                    "$oid": "5f65a680fc9fbdb0f7b88865"
+                },
+                "bedType": "Semi private ward",
+                "pricePerDay": 1800,
+                "description": "Semi private ward",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbd4586b88866"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            },
+            {
+                "photos": [],
+                "_id": {
+                    "$oid": "5f65a680fc9fbdf3bbb88867"
+                },
+                "bedType": "Private Ward",
+                "pricePerDay": 1000,
+                "description": "Private Ward",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbdc7ffb88868"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            },
+            {
+                "photos": [],
+                "_id": {
+                    "$oid": "5f65a680fc9fbd4abbb88869"
+                },
+                "bedType": "ICU",
+                "pricePerDay": 2200,
+                "description": "ICU",
+                "sharingBasis": "0",
+                "amenities": [
+                    {
+                        "_id": {
+                            "$oid": "5f65a680fc9fbd3d7bb8886a"
+                        },
+                        "name": "AC"
+                    }
+                ]
+            }
+        ],
+        "hospitalAddress": {
+            "city": "Dahisar, Mumbai",
+            "state": "Maharashtra",
+            "zip": "400606",
+            "country": "India"
+        },
+        "absoluteRating": "1.5"
+    }
+]
